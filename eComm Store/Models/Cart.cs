@@ -10,6 +10,5 @@ namespace eComm_Store.Models
         public int id { get; set; }
         public List<Products> Items { get; set; }
         public double TotalPrice { get; set; }
-
     }
 }
