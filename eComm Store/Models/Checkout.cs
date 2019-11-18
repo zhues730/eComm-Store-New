@@ -8,5 +8,6 @@ namespace eComm_Store.Models
     public class Checkout
     {
         public int id { get; set; }
+        
     }
 }
