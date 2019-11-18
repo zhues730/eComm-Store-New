@@ -10,6 +10,6 @@ namespace eComm_Store.Models
         public int id { get; set; }
         public Users UserReview { get; set; }
         public string Comment { get; set; }
-         
+        
     }
 }
